@@ -24,7 +24,7 @@ const USER_CONFIG = {
       id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
 
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '	51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
+      useTemplateId: '51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
 
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -50,7 +50,7 @@ const USER_CONFIG = {
       name: '小威威',
       id: 'ohr5j6DcBJbwlKWqy6-ALCjDj8sY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '	51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
+      useTemplateId: '51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
 
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
