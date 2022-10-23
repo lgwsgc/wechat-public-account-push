@@ -24,7 +24,7 @@ const USER_CONFIG = {
       id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
 
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
+      useTemplateId: '2bYk77-C1W7B0vQFYqr5i1HEhLQVOZ3pOcWM0wY0n8g',
 
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -58,7 +58,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '琳琳', year: '1999', date: '04-20',
+          type: '*生日', name: '小威威', year: '1999', date: '01-20',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
