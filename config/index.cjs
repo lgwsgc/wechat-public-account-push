@@ -44,7 +44,7 @@ const USER_CONFIG = {
       ],
     },
   ],
-  USERS: [
+  USERS1: [
     {
 
       name: '小威威',
