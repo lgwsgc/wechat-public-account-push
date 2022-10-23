@@ -19,13 +19,13 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '琳琳宝贝',
+      name: '琳琳',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
       name: '小威威',
       id: 'ohr5j6DcBJbwlKWqy6-ALCjDj8sY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '2bYk77-C1W7B0vQFYqr5i1HEhLQVOZ3pOcWM0wY0n8g',
+      useTemplateId: '	51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
 
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
