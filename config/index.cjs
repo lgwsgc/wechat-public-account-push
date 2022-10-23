@@ -25,7 +25,8 @@ const USER_CONFIG = {
 
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '2bYk77-C1W7B0vQFYqr5i1HEhLQVOZ3pOcWM0wY0n8g',
-
+      PROVINCE: '浙江',
+      CITY: '宁波',
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
@@ -50,7 +51,8 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
 
-
+      PROVINCE: '上海',
+      CITY: '松江',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
