@@ -52,7 +52,7 @@ const USER_CONFIG = {
       useTemplateId: '51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
 
       PROVINCE: '上海',
-      CITY: '松江',
+      CITY: '上海',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
