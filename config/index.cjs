@@ -22,8 +22,12 @@ const USER_CONFIG = {
       name: '琳琳宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
+      name: '小威威',
+      id: 'ohr5j6DcBJbwlKWqy6-ALCjDj8sY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'YnHpigA9oJlva3niHtEhvFS-UOMfCw40RnA6skzN79E',
+
+
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
