@@ -25,7 +25,7 @@ const USER_CONFIG = {
       name: '小威威',
       id: 'ohr5j6DcBJbwlKWqy6-ALCjDj8sY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'YnHpigA9oJlva3niHtEhvFS-UOMfCw40RnA6skzN79E',
+      useTemplateId: '2bYk77-C1W7B0vQFYqr5i1HEhLQVOZ3pOcWM0wY0n8g',
 
 
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -33,20 +33,22 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '1999', date: '04-20',
+          type: '*生日', name: '琳琳', year: '1999', date: '04-20',
         },
-               ],
+      ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-09-08' },
+
+
       ],
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'YnHpigA9oJlva3niHtEhvFS-UOMfCw40RnA6skzN79E',
+  CALLBACK_TEMPLATE_ID: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
 
   CALLBACK_USERS: [
     {
