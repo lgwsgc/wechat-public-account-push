@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'gUzSmuvHQF2Ajebg5xHCXIWxbut8LvupK7k1NoRDz1o',
+      useTemplateId: 'wr1zS5U1zwGC7wRxoASApJY8dBXpwzTfr32p_PvaKk0',
       province: '浙江',
       city: '宁波',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -44,7 +44,7 @@ const USER_CONFIG = {
       name: '小威威',
       id: 'ohr5j6DcBJbwlKWqy6-ALCjDj8sY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'QauPIQuvrVs3qNJoVDUgrubQv8B5itOTow3NB83_nIQ',
+      useTemplateId: '_8whwXdscZhFGfo7TuxEBod9oa0yPfJTOM4nSl7KLkc',
       province: '上海',
       city: '上海',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
