@@ -13,8 +13,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '2e867e362fb0f4555c315443becc821c',
 
-  PROVINCE: '浙江',
-  CITY: '宁波',
+  // PROVINCE: '浙江',
+  // CITY: '宁波',
 
   USERS: [
     {
@@ -22,12 +22,10 @@ const USER_CONFIG = {
       name: '琳琳',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
-
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '2bYk77-C1W7B0vQFYqr5i1HEhLQVOZ3pOcWM0wY0n8g',
       PROVINCE: '浙江',
       CITY: '宁波',
-
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -40,17 +38,13 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-09-08' },
-
-
       ],
     },
     {
-
       name: '小威威',
       id: 'ohr5j6DcBJbwlKWqy6-ALCjDj8sY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '51nAuuVIV5yKhQWwiJ4DwW3u3B-VkL6ovQ61BJ5SDEA',
-
       PROVINCE: '上海',
       CITY: '上海',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -65,8 +59,6 @@ const USER_CONFIG = {
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2022-09-08' },
-
-
       ],
     },
   ],
@@ -75,14 +67,13 @@ const USER_CONFIG = {
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   CALLBACK_TEMPLATE_ID: 'BtkOmMw_Lrlqh63MnaxtyZpKIuoRy6lCXO5W9TkkBMc',
-
-  CALLBACK_USERS: [
-    {
-      name: '自己',
-      // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
-    }
-  ],
+  // CALLBACK_USERS: [
+  //   {
+  //     name: '自己',
+  //     // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+  //     id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
+  //   }
+  // ],
 
 }
 
