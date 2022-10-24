@@ -23,11 +23,11 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '2bYk77-C1W7B0vQFYqr5i1HEhLQVOZ3pOcWM0wY0n8g',
+      useTemplateId: '	FXPbGksAYYjjce5j3WPN9En5h-9UjPNkOHmVOHDG4IE',
       province: '浙江',
       city: '宁波',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '8-23',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -48,7 +48,7 @@ const USER_CONFIG = {
       province: '上海',
       city: '上海',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '12-27',
+      horoscopeDate: '3-7',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
