@@ -24,8 +24,8 @@ const USER_CONFIG = {
       id: 'ohr5j6K6utUUEG1J7BFxDYi7Cnjg',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'IflAMe2VI0Mgpwg5oxz1a1ssuDCHfd_dOKUNwsKcQLo',
-      province: '浙江',
-      city: '宁波',
+      province: '宁波',
+      city: '慈溪',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '4-23',
       festivals: [
@@ -76,6 +76,27 @@ const USER_CONFIG = {
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
           type: '*生日', name: '琳宝', year: '1999', date: '03-19',
+        },
+      ],
+      // 我们在一起已经有xxxx天了的配置
+      customizedDateList: [
+        // 在一起的日子
+        { keyword: 'love_day', date: '2022-09-08' },
+      ],
+    },
+    {
+      name: '红艳',
+      id: 'ohr5j6NCzcxOU21ypAr0ys9-KKLw',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: 'F-euLp6TOCsUbfH8R7cAfihvQ8GT_GI3oEemxbrOFHs',
+      province: '上海',
+      city: '松江',
+      // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
+      horoscopeDate: '6-3',
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: '琳宝', year: '1999', date: '05-09',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
