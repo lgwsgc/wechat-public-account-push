@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'ohr5j6DcC0yEtW0bAv3pcZmWoeeI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'zbT1RR2YETafugSduCwip7Yz6T1QK1tlHmIbwnTSws',
+      useTemplateId: 'zbT1RR2YETafugSduCwip7Yz6T1QK1tlHmIbwnTSwss',
       province: '浙江',
       city: '宁波',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -45,14 +45,14 @@ const USER_CONFIG = {
       id: 'ohr5j6DcBJbwlKWqy6-ALCjDj8sY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '_8whwXdscZhFGfo7TuxEBod9oa0yPfJTOM4nSl7KLkc',
-      province: '上海',
-      city: '上海',
+      province: '浙江',
+      city: '宁波',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '3-7',
+      horoscopeDate: '4-23',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '小威威', year: '1999', date: '01-20',
+          type: '*生日', name: '琳宝', year: '1999', date: '03-19',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
